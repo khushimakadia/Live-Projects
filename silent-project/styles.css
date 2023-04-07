@@ -1,0 +1,71 @@
+#title{
+    background-image: url(./images/final-ohoto-nightmode.webp);
+  
+    height: 400px;
+    background-size: 100% 100%;
+    
+    filter: blur(px);
+  -webkit-filter: blur(1px);
+
+  /* Full height 
+  height: 100%;*/
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+   
+    
+}
+.container-fluid{
+   
+ 
+    
+}
+.main-head{
+  
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 1px;
+    font-size: 80px;
+    font-weight: 700;
+    color: white;
+  
+   
+
+  
+
+
+
+
+
+
+}
+.sub-head{
+    text-align: center;
+    font-size: 20px;
+    color: azure;
+}
+.btn{
+   margin-right: 2%;
+   
+    
+}
+#features{
+    background-color: azure;
+    padding: 5% 5%;
+    position: relative;
+    margin-right: 3%;
+
+}
+.features-box{
+    text-align: center;
+    padding: 2px;
+}
+.row {
+    padding: 3% 3%;
+    margin: 20px 20px 20px;
+}
+.nav-item{
+    color: azure;
+}

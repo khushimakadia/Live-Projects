@@ -1,0 +1,40 @@
+/*main-section*/
+@media screen (max-width: 900px;){
+
+}
+body{
+    
+}
+.container-1{
+    position: absolute;
+
+
+}
+
+.container-2{ 
+
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+    padding: 5% 20% ;
+    position: relative;
+}
+
+.main-heading{
+    background-color:transparent;
+    text-align: center;
+    font-size: 120px;
+    color: yellow;
+  
+}
+.arrow-image{
+    
+}
+.image-bg{
+    background-image: url('./assests/images/backgroundimage.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 208vh;
+    filter: blur(2px);
+    background-blend-mode: color-burn;
+}

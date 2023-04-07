@@ -1,0 +1,24 @@
+.main-img{
+    width: 60%;
+    float: right;
+}
+.heading-1{
+    margin-left: 4%;
+    padding-top: 10%;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 900;
+    font-size: 80px;
+    color: rgb(59, 8, 70);
+}
+.heading-5{
+    margin-left: 4%;
+    padding-top: 3%;
+    font-weight: 300;
+}
+.btn{
+  background-color: rgb(60, 14, 78);
+}
+.nav-item{
+   padding: 10px 40px;
+   color: rgb(133, 130, 127);
+}

@@ -1,0 +1,77 @@
+.nav-item{
+    padding-right: 70px;
+    font-family: 'Audiowide', cursive;
+    font-size: 20px;
+}
+
+.main-head1{
+    float: right;
+    font-family: 'Audiowide', cursive;
+    font-size: 60px;
+    margin-right: 12%;
+    margin-top: 10%;
+}
+
+.para-1{
+    
+    margin-right: 20%;
+}
+.main-para{
+    width: 80%;
+    margin: 4% auto 4% auto;
+    text-align: left;
+    line height: 2;
+} 
+.profile-img1{
+    position: relative;
+    width: 23%;
+    float: left;
+    margin-right: 15%;
+    
+} 
+.main-head{
+    font-family: 'Audiowide', cursive;
+    margin-top: 10%;
+    font-size: 50px;
+   
+}
+.sub-para{
+    color: gray;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.btn-outline-dark{
+   
+    font-family: 'Audiowide', cursive!important;
+    font-size: 15px!important;
+}
+.btn-dark{
+      font-family: 'Audiowide', cursive!important;
+      margin-top: 5%;
+      margin-left: 1%;
+      padding-left: 20px!important;
+      padding-right: 20px!important;
+}
+.conct{
+    color: gray;
+    margin-top: 8%;
+    margin-left: 65%;
+    font-size: 20px;
+
+}
+.social-icon{
+   float: right;
+   margin-right: 3%;
+}
+.square-img{
+    position: absolute;
+    padding-right: 150px;
+    width: 450px;
+    height: 430px;
+    padding-top: 170px;
+    padding-left: 80px;
+}
+
+

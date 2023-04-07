@@ -1,0 +1,46 @@
+.main-img{
+    float: right;
+  width: 50%;
+  height: 50%;
+}
+.main-pass{
+    margin-left: 3%;
+    padding-top: 15%;
+    font-family: 'Tilt Warp', cursive;
+    font-size: 100px;
+   
+   
+}
+.main-pass2{
+    margin-left: 3%;
+    font-family: 'Barlow', sans-serif;
+    font-size: 30px;
+    
+}
+.nav-item{
+    padding-right: 80px;
+    font-family: 'Tilt Warp', cursive;
+    font-size: 20px;
+    
+}
+.btn{
+    border-radius: 50px! important;
+    font-family: 'Barlow', sans-serif;
+    font-size: 20px;
+    margin-left: 3%;
+    width: 190px;
+    height: 70px;
+    
+}
+.final{
+    margin-right: 3%;
+}
+.icon{
+    display: flex;
+    text-align: right;
+    width: 50px;
+    height: 50px;
+    margin-top: 15%;
+  
+   
+}

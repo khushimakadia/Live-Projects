@@ -1,0 +1,93 @@
+body{
+    position: relative;
+   
+}
+.plus-img{
+    border-radius: 600px;
+    width: 40px;
+    
+}
+.nav-item{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 0%;
+    padding-right: 100px;
+
+}
+.icons{
+    display: flex;
+    text-align: right;
+    margin-right: 2%;
+   width: 100px;
+   
+    
+}
+.main-para{
+    margin-left: 2%;
+    margin-top: 3%;
+   
+}
+.sub-head1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    font-weight: 500;
+}
+.main-head2{
+    font-family: 'Fredoka One', cursive;
+    font-size: 68px;
+    font-weight: bolder;
+    padding-top: 0cm;
+}
+.plus-img{
+    margin-left: 6%;
+    
+}
+.plus-points{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+.main-head3{
+    
+   margin-left: 2%;
+   margin-right: 50%;
+    font-size: 15px;
+    text-align: left;
+}
+.button-head{
+    padding-top: 40px;
+    margin-left: 2%;
+    
+}
+.btn{
+    margin-right: 3%;
+    background-color: orangered;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: azure;
+    border-radius: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.headphone-img{
+    float: right;
+    width: 450px;
+    margin-right: 3%;
+    position: relative;
+    background-color: aliceblue;
+   
+
+}
+.discount-img{
+    position: absolute;
+    margin-left: 58%;
+    margin-top: 21%;
+    width: 120px;
+  
+    
+    
+     
+}
+
